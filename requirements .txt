@@ -3,5 +3,5 @@ pandas
 numpy
 scikit-learn
 matplotlib
-catboost
+catboost==1.2.10
 joblib
